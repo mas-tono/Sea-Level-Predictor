@@ -80,7 +80,7 @@ certification python project from <a href="https://www.freecodecamp.org/learn/da
 
 6. add labels and title
       <details>
-        <summary>labels & titles</summary>
+        <summary>labels & title</summary>
         <pre>
             plt.xlabel("Year")
             plt.ylabel("Sea Level (inches)")
