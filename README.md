@@ -3,7 +3,12 @@ certification python project from <a href="https://www.freecodecamp.org/learn/da
 
 
 1. using Python to predict the sea level change through year 2050.
-
+      <details>
+      <summary><b>Prediction graphic</b></summary>
+        <img src="https://github.com/mas-tono/Sea-Level-Predictor/blob/main/sea_level_plot.png">
+      </details>
+           
+2. import libraries
       <details>
         <summary>import library</summary>
         <pre>
@@ -12,8 +17,6 @@ certification python project from <a href="https://www.freecodecamp.org/learn/da
         from scipy.stats import linregress
         </pre>
       </details>
-
-2. pandas to import data from epa-sea-level.csv
 
 3. matplotlib to create scatter plot for year and sea level from data available
 
